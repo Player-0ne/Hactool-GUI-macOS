@@ -20,5 +20,9 @@ Also need in Hactool/Resources/Scripts/main.scpt swap the commenting of these li
 property hactool : "hactool"
 
 P.S.
+I am not the author of hactool. My application is just a shell for this utility.
+Link to the original hactool utility. by SciresM - https://github.com/SciresM/hactool 
+
+P.S.P.
 I checked the unpacking of all firmware files from 1.0.0 to 8.1.0 and everything works. 
 I did not have the patience to unpack manually before that...
