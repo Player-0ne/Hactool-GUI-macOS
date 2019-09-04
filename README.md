@@ -2,9 +2,9 @@
 Applescript application GUI shell user friendly for hactool utility.
 
 Multiple unpaking files:
-NSP (Ninendo Submission Package)
-NCA (Nintendo Content Archive)
-XCI (GameCard Image)
+NSP (Ninendo Submission Package),
+NCA (Nintendo Content Archive),
+XCI (GameCard Image).
 
 You need the hacktool utility itself.
 The latest compiled version is in the program resources (Hactool/Resources/hactool). 
