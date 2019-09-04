@@ -22,6 +22,7 @@ you should transfer the hactool utility from the  Hactool/Resources/hactool to /
 Also need in Hactool/Resources/Scripts/main.scpt swap the commenting of these lines
 
 #property hactool : "/Applications/Hactool.app/Contents/Resources/hactool"
+
 property hactool : "hactool"
 
 P.S.
